@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Oleksandr Tokarev  
 ### Unity / C# Game Developer (Finland 🇫🇮)
 
-Junior Unity / C# Developer focused on **gameplay programming** and **clean, modular architecture**.  
-I build gameplay systems and prototype full features in Unity 6: mechanics, progression, UI flows,  
-saving systems and simple AI behaviour. I learn fast through practice, finish features to a playable state  
+Unity / C# Developer focused on **gameplay programming** and **clean, modular architecture**.  
+I build gameplay systems and prototype complete features in Unity 6: mechanics, progression, UI flows,  
+saving systems and basic AI behaviour. I learn fast through practice, finish features to a playable state  
 and continuously grow through shipped results.
 
 ---
