@@ -1,68 +1,66 @@
 # 👋 Hi, I'm Oleksandr Tokarev  
-### Unity / C# Game Developer — Finland 🇫🇮
+### Unity / C# Game Developer (Finland 🇫🇮)
 
-I create gameplay-focused prototypes, mobile games and cinematic demos using **Unity 6** and **C#**.  
-Strongly motivated to grow as a professional developer through consistent practice, self-study and real projects.
+I create gameplay systems, mobile prototypes and cinematic experiences using **Unity 6**, clean C# architecture and an iterative development approach.  
+Strong focus on **AI logic, UI flow, saving systems and mobile-ready features**.
 
 ---
 
 ## 🎮 Play My Games  
-All playable directly on Itch.io:
-
-👉 **https://sd7games.itch.io**
+Available instantly on Itch.io:  
+👉 https://sd7games.itch.io
 
 | Project | Platform | Description |
 |--------|----------|-------------|
-| **Sharp Shooter** | WebGL | FPS prototype with ADS, recoil, NavMesh AI and portals |
+| **Emoji Battle** | Android (in dev) | Puzzle-battle game with AI (3 levels), progression, unlocks, saving and custom UI |
+| **Sharp Shooter** | WebGL | FPS prototype: recoil, ADS, weapon system, NavMesh AI and portals |
 | **Royal Run** | WebGL | Hyper-casual endless runner with procedural generation |
 | **Rocket Boost** | WebGL | Physics-based flying mini-game |
-| **Galaxy Strike** | PC | Timeline-driven cinematic game with scripted encounters |
-| **Emoji Battle** | Android (in dev) | Mobile puzzle-battle game with AI, UI, progression |
+| **Galaxy Strike** | PC | Timeline-driven cinematic demo with scripted encounters |
 
 ---
 
-## 🧠 Skills & Tools
+## 🛠 Skills
 
-### 🔹 Unity  
-- UI / HUD  
+### 🔹 Unity (Core)
+- UI Toolkit / UGUI, popup systems  
+- Timeline, Cinemachine, Animator  
 - Particle System & VFX  
-- Animations, Timeline, Cinemachine  
-- 2D/3D physics  
-- NavMesh (basic)  
 - Shader Graph (basic VFX)  
+- NavMesh (basic AI navigation)  
+- Mobile & WebGL optimization  
 - Object Pooling  
-- Mobile & WebGL builds
 
-### 🔹 C#  
-- Clean logic & structure  
-- Events & delegates  
-- Coroutines  
-- Simple patterns (SRP, interface-driven design)  
+### 🔹 C#
+- Clean, modular gameplay logic  
+- Events / delegates, Scriptable architecture  
+- AI decision-making (easy/normal/hard logic)  
 - JSON / PlayerPrefs saving  
+- Coroutines & async basics  
+- Interface-driven design (SRP, small patterns)
 
-### 🔹 Additional  
-- GitHub & version control  
-- Prototyping small gameplay systems  
-- Mobile optimization fundamentals  
+### 🔹 Tools
+- Git / GitHub  
+- Unity 6 & 2022 LTS  
+- Prototyping gameplay systems
 
 ---
 
-## 📦 Featured Repositories  
-
-- **Emoji Battle** — mobile game with AI, progression, unlocks  
-- **Sharp Shooter** — full weapon system + AI  
+## 📦 Featured Repositories
+- **Emoji Battle** — mobile game with AI, progression, unlocks, saving  
+- **Sharp Shooter** — FPS prototype with full weapon/AI system  
 - **Royal Run** — endless runner prototype  
-- **Galaxy Strike** — Timeline-based cinematic gameplay  
-- **Rocket Boost** — physics-based control prototype  
+- **Galaxy Strike** — cinematic Timeline-driven project  
+- **Rocket Boost** — physics prototype  
 
-👉 Browse all repos: **https://github.com/SD7games?tab=repositories**
+👉 Browse everything: https://github.com/SD7games?tab=repositories
 
 ---
 
 ## 📫 Contact  
 📧 **OleksandrTokarevDev@gmail.com**  
-💼 GitHub: https://github.com/SD7games  
 🎮 Itch.io: https://sd7games.itch.io  
+💼 GitHub: https://github.com/SD7games  
 
 ---
 
