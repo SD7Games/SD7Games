@@ -1,9 +1,8 @@
 ### Unity / C# Game Developer (Finland 🇫🇮)
 
 Focused on **gameplay programming** and **clean, modular architecture**.  
-I design and implement gameplay systems in Unity 6 with emphasis on **MVC-style separation**,  
-**Single Responsibility Principle**, and maintainable code structure — applied primarily in my
-**main and recent projects**.
+In my main project (**Emoji Battle**) I apply **MVC-style separation** and the  
+**Single Responsibility Principle** to keep gameplay logic, UI and infrastructure clearly separated.
 
 I build complete features end-to-end: gameplay mechanics, progression systems,  
 UI flows, saving logic and basic AI behaviour — from idea to a playable, testable state.  
@@ -40,7 +39,7 @@ Available on Itch.io:
 
 ### 🔹 C# & Architecture
 - **Clean, modular gameplay code**  
-- **MVC-style separation (Model / View / Controller) in recent and main projects**  
+- **MVC-style separation (Model / View / Controller) in my main project**  
 - Single Responsibility Principle (SRP)  
 - OOP, Clean Code, basic SOLID principles  
 - Interface-driven design  
@@ -64,9 +63,8 @@ Available on Itch.io:
 - **Rocket Boost** — physics-based prototype  
 
 > **Note:**  
-> Earlier projects focus on learning core Unity and C# concepts and rapid prototyping.  
-> **Emoji Battle** represents my current approach to clean architecture, MVC-style separation
-> and SRP-focused gameplay code.
+> Earlier projects were built during my learning phase and focus on core Unity/C# practice and prototyping.  
+> **Emoji Battle** reflects my current approach to clean architecture, MVC-style separation and SRP-focused code.
 
 👉 Browse all repositories:  
 https://github.com/SD7games?tab=repositories
