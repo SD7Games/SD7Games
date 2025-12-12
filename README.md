@@ -1,13 +1,12 @@
 ### Unity / C# Game Developer (Finland 🇫🇮)
 
-Focused on **gameplay programming** and **modular architecture**.  
-In my main project (**Emoji Battle**) I apply **MVC-style separation** and the  
-**Single Responsibility Principle** to keep gameplay logic, UI and infrastructure clearly separated.
+Focused on **gameplay programming** and **modular design**.  
+In my main project (**Emoji Battle**) I follow an **MVC-style structure** and the  
+**Single Responsibility Principle** to separate gameplay logic, UI and data/saving layers.
 
-I build complete features end-to-end: gameplay mechanics, progression systems,  
-UI flows, saving logic and basic AI behaviour — from idea to a playable, testable state.  
-I learn fast through practice, refactor actively, and grow through **complete, playable projects**, not isolated demos or code snippets.
-
+I build features end-to-end: gameplay mechanics, progression, UI flows, saving systems and basic AI —  
+from idea to a playable, testable result. I learn fast through practice, refactor actively, and grow through  
+**small but complete playable projects**, not isolated demos or code snippets.
 
 ---
 
@@ -18,7 +17,7 @@ Available on Itch.io:
 
 | Project | Platform | Description |
 |--------|----------|-------------|
-| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game **fully refactored** to an **MVC-style architecture** with clear separation between domain logic and UI, AI difficulty via `Strategy` pattern, emoji unlock progression, JSON saving and UI popups. |
+| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game **fully refactored** to an **MVC-style architecture**: domain logic separated from UI, AI difficulty via `Strategy` pattern, emoji unlock progression, JSON saving and UI popups. |
 | **Sharp Shooter** | WebGL | FPS prototype with ScriptableObject-based weapons, ADS, sprint, recoil, NavMesh AI and win/lose flow. |
 | **Royal Run** | WebGL | Endless runner with procedural obstacles, collectibles, speed scaling and short-session gameplay loop. |
 | **Rocket Boost** | WebGL | Physics-based rocket controller: thrust, torque, collisions and restart cycle. |
@@ -30,8 +29,8 @@ Available on Itch.io:
 
 ### 🔹 Unity & Gameplay
 - Gameplay programming (mechanics, interactions, win/lose flow)  
-- **Turn-based systems and simple AI logic**  
-- UI Toolkit / UGUI, popup systems, UI flow architecture  
+- Turn-based systems and simple AI logic  
+- UI Toolkit / UGUI, popup systems, UI flow implementation  
 - Progression systems, unlocks, game loop structure  
 - Animator, Timeline, Cinemachine  
 - Particle System & Shader Graph (basic VFX)  
@@ -39,8 +38,8 @@ Available on Itch.io:
 - Object Pooling  
 
 ### 🔹 C# & Architecture
-- **Clean, modular gameplay code**  
-- **MVC-style separation (Model / View / Controller) in my main project**  
+- Clean, modular gameplay code  
+- MVC-style separation (Model / View / Controller) in my main project  
 - Single Responsibility Principle (SRP)  
 - OOP, Clean Code, basic SOLID principles  
 - Interface-driven design  
@@ -64,8 +63,8 @@ Available on Itch.io:
 - **Rocket Boost** — physics-based prototype  
 
 > **Note:**  
-> Earlier projects were built during my learning phase and focus on core Unity/C# practice and prototyping.  
-> **Emoji Battle** reflects my current approach to clean architecture, MVC-style separation and SRP-focused code.
+> Earlier projects were created during my learning phase and **focus** on core Unity/C# practice and prototyping.  
+> **Emoji Battle** represents my current approach to maintainable architecture and SRP-focused code.
 
 👉 Browse all repositories:  
 https://github.com/SD7games?tab=repositories
@@ -82,4 +81,5 @@ https://github.com/SD7games?tab=repositories
 
 ---
 
-⭐ **Self-driven Unity developer focused on maintainable gameplay systems and shipped results.**
+⭐ **Self-driven Unity developer focused on maintainable gameplay systems and delivering playable results.**
+
