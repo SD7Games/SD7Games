@@ -1,7 +1,7 @@
 # 🎮 Unity / C# Game Developer (Finland 🇫🇮)
 
 Focused on **gameplay programming** and **maintainable, modular design**.  
-I build complete gameplay features end-to-end — from idea and implementation to a playable, testable result.
+I build complete gameplay features end-to-end — from idea and implementation to a playable, testable, and shippable result.
 
 My primary focus is **clean gameplay architecture**: separating gameplay logic, UI, and data/saving layers, refactoring actively, and designing systems that remain understandable and extensible as projects grow.
 
