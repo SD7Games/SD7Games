@@ -83,10 +83,6 @@ Some are based on structured learning and were further **extended, refactored, a
 - **Galaxy Strike** — Timeline-driven cinematic project  
 - **Rocket Boost** — physics-based prototype  
 
-> **Note:**  
-> Earlier projects focus on core Unity/C# practice and gameplay experimentation.  
-> **Emoji Battle** reflects my current production-ready approach to architecture, SRP, and maintainable gameplay systems.
-
 ---
 
 ## 📫 Contact
