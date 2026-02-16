@@ -24,8 +24,9 @@ My primary focus is **clean gameplay architecture**: separating gameplay logic, 
 - JSON / PlayerPrefs saving
 - Mobile-focused UX and performance considerations
 
-👉 **Google Play:** https://play.google.com/store/apps/details?id=com.sd7gamestudio.emojibattle&pcampaignid=web_share
-👉 **Repository:** https://github.com/SD7Games/Emoji_Battle
+🔗 **Links**
+- 📱 [Google Play – Emoji Battle](https://play.google.com/store/apps/details?id=com.sd7gamestudio.emojibattle)
+- 💻 [GitHub Repository](https://github.com/SD7Games/Emoji_Battle)
 
 ---
 
