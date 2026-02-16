@@ -1,37 +1,58 @@
-### Unity / C# Game Developer (Finland 🇫🇮)
+# 🎮 Unity / C# Game Developer (Finland 🇫🇮)
 
-Focused on **gameplay programming** and **modular design**.  
-In my main project (**Emoji Battle**) I follow an **MVC-style structure** and the  
-**Single Responsibility Principle** to separate gameplay logic, UI and data/saving layers.
+Focused on **gameplay programming** and **maintainable, modular design**.  
+I build complete gameplay features end-to-end — from idea and implementation to a playable, testable result.
 
-I build features end-to-end: gameplay mechanics, progression, UI flows, saving systems and basic AI —  
-from idea to a playable, testable result. I learn fast through practice, refactor actively, and grow through  
-**small but complete playable projects**, not isolated demos or code snippets.
+My primary focus is **clean gameplay architecture**: separating gameplay logic, UI, and data/saving layers, refactoring actively, and designing systems that remain understandable and extensible as projects grow.
 
 ---
 
-## 🎮 Play My Games
+## 🚀 Shipped Game
+
+### **Emoji Battle** — Mobile Game (Unity 6)  
+📱 **Released on Google Play**
+
+**Emoji Battle** is my main and most up-to-date project, representing my current approach to gameplay architecture and code quality.
+
+### Key Highlights
+- MVC-style architecture with clear separation between **domain logic, UI, and persistence**
+- **Single Responsibility Principle** applied across gameplay systems
+- Turn-based gameplay loop
+- AI difficulty implemented via the **Strategy pattern**
+- Progression and emoji unlock systems
+- Event-driven UI and popup flow
+- JSON / PlayerPrefs saving
+- Mobile-focused UX and performance considerations
+
+👉 **Google Play:** https://play.google.com/store/apps/details?id=com.sd7gamestudio.emojibattle&pcampaignid=web_share
+👉 **Repository:** https://github.com/SD7Games/Emoji_Battle
+
+---
+
+## 🧪 Playable Prototypes & Experiments
 
 Available on Itch.io:  
 👉 https://sd7games.itch.io
 
-| Project | Platform | Description |
-|--------|----------|-------------|
-| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game **fully refactored** to an **MVC-style architecture**: domain logic separated from UI, AI difficulty via `Strategy` pattern, emoji unlock progression, JSON saving and UI popups. |
-| **Sharp Shooter** | WebGL | FPS prototype with ScriptableObject-based weapons, ADS, sprint, recoil, NavMesh AI and win/lose flow. |
-| **Royal Run** | WebGL | Endless runner with procedural obstacles, collectibles, speed scaling and short-session gameplay loop. |
-| **Rocket Boost** | WebGL | Physics-based rocket controller: thrust, torque, collisions and restart cycle. |
-| **Galaxy Strike** | PC | Timeline-driven cinematic demo with camera transitions, dialogue portraits and scene flow. |
+These smaller projects were built to **explore, practice, and validate specific gameplay systems**.  
+Some are based on structured learning and were further **extended, refactored, and adapted** to focus on gameplay logic, architecture, and player feedback.
+
+| Project | Platform | Focus |
+|------|---------|------|
+| **Sharp Shooter** | WebGL | FPS prototype: ScriptableObject-based weapons, ADS, recoil, NavMesh AI, win/lose flow |
+| **Royal Run** | WebGL | Endless runner: procedural obstacles, collectibles, speed scaling, short-session loop |
+| **Rocket Boost** | WebGL | Physics-based controller: thrust, torque, collisions, restart cycle |
+| **Galaxy Strike** | PC | Timeline-driven cinematic demo: camera transitions, dialogue portraits, scene flow |
 
 ---
 
 ## 🛠 Skills
 
 ### 🔹 Unity & Gameplay
-- Gameplay programming (mechanics, interactions, win/lose flow)  
-- Turn-based systems and simple AI logic  
-- UI Toolkit / UGUI, popup systems, UI flow implementation  
-- Progression systems, unlocks, game loop structure  
+- Gameplay mechanics, interactions, win/lose flow  
+- Turn-based systems & simple AI logic  
+- UI Toolkit / UGUI, popup systems, UI flow  
+- Progression systems, unlocks, game loop design  
 - Animator, Timeline, Cinemachine  
 - Particle System & Shader Graph (basic VFX)  
 - Mobile & WebGL builds  
@@ -39,12 +60,12 @@ Available on Itch.io:
 
 ### 🔹 C# & Architecture
 - Clean, modular gameplay code  
-- MVC-style separation (Model / View / Controller) in my main project  
+- MVC-style separation (main project)  
 - Single Responsibility Principle (SRP)  
-- OOP, Clean Code, basic SOLID principles  
+- OOP, Clean Code, basic SOLID  
 - Interface-driven design  
 - Events / delegates, ScriptableObjects  
-- Coroutines and basic async patterns  
+- Coroutines & basic async patterns  
 - JSON & PlayerPrefs saving  
 
 ### 🔹 Tools
@@ -55,24 +76,19 @@ Available on Itch.io:
 ---
 
 ## 📦 Featured Repositories
-
-- **Emoji Battle** — mobile game refactored to MVC-style architecture with clean domain logic  
-- **Sharp Shooter** — FPS prototype with weapon system & basic AI behaviour  
+- **Emoji Battle** — shipped mobile game with MVC-style gameplay architecture  
+- **Sharp Shooter** — FPS prototype with weapon system & basic AI  
 - **Royal Run** — endless runner prototype  
 - **Galaxy Strike** — Timeline-driven cinematic project  
 - **Rocket Boost** — physics-based prototype  
 
 > **Note:**  
-> Earlier projects were created during my learning phase and **focus** on core Unity/C# practice and prototyping.  
-> **Emoji Battle** represents my current approach to maintainable architecture and SRP-focused code.
-
-👉 Browse all repositories:  
-https://github.com/SD7games?tab=repositories
+> Earlier projects focus on core Unity/C# practice and gameplay experimentation.  
+> **Emoji Battle** reflects my current production-ready approach to architecture, SRP, and maintainable gameplay systems.
 
 ---
 
 ## 📫 Contact
-
 📧 **OleksandrTokarevDev@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/oleksandrtokarev/  
 🎮 **Itch.io:** https://sd7games.itch.io  
@@ -81,5 +97,4 @@ https://github.com/SD7games?tab=repositories
 
 ---
 
-⭐ **Self-driven Unity developer focused on maintainable gameplay systems and delivering playable results.**
-
+⭐ **Unity developer focused on shipping playable games and building maintainable gameplay systems.**
